@@ -1,0 +1,11 @@
+version: '3'
+services:
+  prepare:
+    build:
+      context: ./prepare
+    volumes:
+      - ./prepare:/usr/src/app
+    environment:
+      TZ: Asia/Tokyo
+    ports:
+      - "8000:8000"
