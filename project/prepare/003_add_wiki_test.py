@@ -165,8 +165,8 @@ def format_result(result: Union[Dict, str]) -> str:
 # 使用例
 if __name__ == "__main__":
     searcher = WikipediaBookSearch()
-    book_title = "ノルウェイの森"
-    author_name = "村上春樹"
+    book_title = "サラバ！"
+    author_name = "西加奈子"
     
     result = searcher.search_book(book_title, author_name)
     print(format_result(result))
