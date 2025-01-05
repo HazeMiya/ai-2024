@@ -52,3 +52,7 @@ exit;
 ⬇️ 追加漏れしたISBNを手動で追記
 
 `book_list04.csv`
+
+⬇️ 003_...py（本の概要、あらすじを追記）←今記述中
+
+`book_list05.csv`
