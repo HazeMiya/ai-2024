@@ -24,7 +24,7 @@ docker-compose up -d
 
 <br>
 
-## pythonコンテナに関して
+## 2. pythonコンテナに関して
 `docker-compose up -d`でコンテナが立ち上がっていれば、以下のコマンドでコンテナに入ることができる。
 ```
 docker exec -it <コンテナ名> bash
@@ -37,3 +37,18 @@ python3 001_filter_list.py
 # 出るときは
 exit;
 ```
+
+## 3. フロー
+`book_list01.csv`
+
+⬇️ 001_filter_list.py（いい感じに変形）
+
+`book_list02.csv`
+
+⬇️ 002_add_ISBN.py（ISBNを追加）
+
+`book_list03.csv`
+
+⬇️ 追加漏れしたISBNを手動で追記
+
+`book_list04.csv`
