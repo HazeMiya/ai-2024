@@ -1,7 +1,19 @@
 # ai-2024
 
-## 環境セットアップ
+## 1. 環境セットアップ
+### 1-1. 必要なソフトウェア
+- docker
 
+### 1-2. 環境構築手順
+1. リポジトリのクローン
+```
+git clone https://github.com/HazeMiya/ai-2024
+
+// ghqなら
+ghq get https://github.com/HazeMiya/ai-2024
+```
+
+3. dockerコンテナ起動
 ```
 cd prepare
 docker-compose build
@@ -9,6 +21,8 @@ docker-compose up -d
 ```
 
 立ち上げたら[localhost:8000/docs](http://localhost:8000/docs)にアクセスすると今回使用するFastAPIの使用方法が閲覧できる。
+
+<br>
 
 ## pythonコンテナに関して
 `docker-compose up -d`でコンテナが立ち上がっていれば、以下のコマンドでコンテナに入ることができる。
