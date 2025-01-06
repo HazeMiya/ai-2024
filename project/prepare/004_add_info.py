@@ -58,23 +58,34 @@ def extract_book_features(text: str) -> dict:
     - 不明
     
     3. 主人公の年齢（以下の形式をかならず使用してください）：
+    (ex)
     - 12歳
     - 14歳~16歳
+    つまり、80代の場合は、80歳~89歳としてください。
+
+    4. 主人公の属性（以下の形式をかならず使用してください）：
+    - 小学生
+    - 中学生
     - 高校生
     - 大学生
-    - 80代の場合は、80歳~89歳
+    - 社会人
+    - 主婦
+    - 高齢者
+    - その他
+    - 不明
 
-    4. 主な舞台となる場所（具体的な都市名や地名を1つ。例：東京、京都、札幌など）
+    5. 主な舞台となる場所（具体的な都市名や地名を1つ。例：東京、京都、札幌など）
     ※架空の場所の場合は「架空」と記載
     ※場所が特定できない場合は「不明」と記載
 
-    5. 要約
+    6. 要約
     一行程度で、本の内容を要約してください。
     
     フォーマット：
     ジャンル：[上記の選択肢から1つ]
     季節：[上記の選択肢から1つ]
     主人公の年齢：[抽出結果]
+    主人公の属性：[抽出結果]
     場所：[具体的な都市名/架空/不明]
     本の要約：[本の要約]
     
@@ -140,12 +151,13 @@ def process_csv(input_file: str, output_file: str = "book_list06.csv"):
             all_features.append({})
             continue
             
-        time.sleep(1)  # 1秒待機
+        time.sleep(2)  # 1秒待機
 
     # 結果の保存
     df['ジャンル'] = [features.get('ジャンル', '') for features in all_features]
     df['季節'] = [features.get('季節', '') for features in all_features]
     df['主人公の年齢'] = [features.get('主人公の年齢', '') for features in all_features]
+    df['主人公の属性'] = [features.get('主人公の属性', '') for features in all_features]
     df['場所'] = [features.get('場所', '') for features in all_features]
     df['本の要約'] = [features.get('本の要約', '') for features in all_features]
     df['LLM処理エラー'] = [features.get('error', '') for features in all_features]
