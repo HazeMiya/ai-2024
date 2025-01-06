@@ -53,6 +53,6 @@ exit;
 
 `book_list04.csv`
 
-⬇️ 003_...py（本の概要、あらすじを追記）←今記述中
+⬇️ 003_add_wiki.py（本の概要、あらすじを追記）
 
-`book_list05.csv`
+`book_list05.csv`（wikiにヒットしたのは全部で182件）
