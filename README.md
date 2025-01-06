@@ -56,3 +56,8 @@ exit;
 ⬇️ 003_add_wiki.py（本の概要、あらすじを追記）
 
 `book_list05.csv`（wikiにヒットしたのは全部で182件）
+
+⬇️ 004_add_info.py（本の詳細（季節感、場所、主人公の年齢）を加える）←今ここ
+
+`book_list06.csv`
+
