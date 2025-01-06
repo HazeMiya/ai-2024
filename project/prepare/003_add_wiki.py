@@ -1,3 +1,19 @@
+#================================================================
+# Wikipediaから本の情報を取得し、CSVファイルに保存する
+#================================================================
+# 概要:
+#   - Wikipediaから本の情報を取得する
+#   - 本の情報をCSVファイルに保存する
+#
+# 使用方法:
+#   - $ docker-compose up -d
+#   - $ docker-compose exec <コンテナ名> bash
+#   - $ python3 003_add_wiki.py
+#
+# 入力: book_list04.csv
+# 出力: book_list05.csv
+#================================================================
+
 import asyncio
 import wikipedia
 from typing import Dict, Union, List
