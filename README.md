@@ -59,5 +59,9 @@ exit;
 
 ⬇️ 004_add_info.py（本の詳細（季節感、場所、主人公の年齢）を加える）←今ここ
 
-`book_list06.csv`
+`book_list06.csv`（ジャンル、季節、主人公の年齢、舞台、要約）
+
+⬇️ 005_add_location.py（都市名から緯度経度を取得）
+
+`book_list07.csv`
 
