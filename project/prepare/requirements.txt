@@ -12,3 +12,5 @@ typing-extensions>=4.5.0
 beautifulsoup4>=4.9.3 # htmlやxmlファイルから情報を抽出するためのpythonのライブラリ（なんかエラーが出たから追加した）
 
 aiohttp==3.9.1 # 非同期処理
+
+google.generativeai
