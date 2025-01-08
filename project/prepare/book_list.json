@@ -5,7 +5,7 @@
     "author": "高野和明",
     "award": "江戸川乱歩賞",
     "location": "千葉県中湊郡",
-    "season": "不明",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "仮釈放された青年とベテラン刑務官が、冤罪の可能性のある死刑囚の無実を証明するため、10年前の殺人事件の謎を解き明かす。",
@@ -26,8 +26,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101250510",
@@ -41,8 +41,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4122073707",
@@ -50,7 +50,7 @@
     "author": "町田そのこ",
     "award": "本屋大賞",
     "location": "大分県",
-    "season": "不明",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4120052982.09.LZZZZZZZ",
     "summary": "東京から大分へ移住した26歳の女性が、虐待を受けていた13歳の少年と出会い、自身の過去と重ね合わせながら少年を救おうとする物語。",
@@ -64,15 +64,15 @@
     "title": "GO",
     "author": "金城一紀",
     "award": "直木賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "青春小説",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4062100541.09.LZZZZZZZ",
     "summary": "在日韓国人の高校生・杉原は、ボクシングとケンカに明け暮れる日々を送るが、ある日出会った桜井との交流を通して、自らのアイデンティティや社会問題と向き合うようになる。",
     "characters_age": "17歳~18歳",
     "characters": "高校生",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4065125901",
@@ -86,8 +86,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062731665",
@@ -95,7 +95,7 @@
     "author": "福井晴敏",
     "award": "江戸川乱歩賞",
     "location": "沖縄",
-    "season": "不明",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "沖縄を舞台に、コンピューターウイルスと謎のテロリスト「12」による米海兵隊撤退事件に巻き込まれた元ヘリコプターパイロットの自衛官が、巨大な陰謀に立ち向かうサスペンスアクション。",
@@ -116,8 +116,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -131,8 +131,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4061983091",
@@ -146,8 +146,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "416740401X",
@@ -161,23 +161,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4065274095",
     "title": "おいしいごはんが食べられますように",
     "author": "高瀬隼子",
     "award": "芥川賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4065274095.09.LZZZZZZZ",
     "summary": "職場や小さな集団内の人間関係の多面性を描いた小説。",
-    "characters_age": "不明",
-    "characters": "不明",
-    "latitude": "",
-    "longitude": ""
+    "characters_age": "nan",
+    "characters": "nan",
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4041314232",
@@ -191,8 +191,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4122073839",
@@ -206,23 +206,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4309026370",
     "title": "おらおらでひとりいぐも",
     "author": "若竹千佐子",
     "award": "芥川賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4309026370.09.LZZZZZZZ",
     "summary": "75歳の老女が、夫を亡くし娘とも疎遠になりながらも、脳内で現れる「寂しさ」たちとの交流を通して、過去と現在を行き来し、人生の意味を見出していく物語。",
     "characters_age": "75歳~79歳",
     "characters": "高齢者",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101080011",
@@ -236,23 +236,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4591153320",
     "title": "かがみの孤城",
     "author": "辻村深月",
     "award": "本屋大賞",
-    "location": "架空",
-    "season": "不明（5月〜翌年春にかけての描写があるが、特定の季節は描写されていない）",
+    "location": "nan",
+    "season": "nan",
     "genre": "ファンタジー",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4591153320.09.LZZZZZZZ",
     "summary": "いじめを原因に不登校になった中学生の少女が、鏡を通して不思議な孤城に迷い込み、似た境遇の中学生たちと出会い、友情を育みながら「願いの鍵」を探す物語。",
     "characters_age": "12歳〜13歳",
     "characters": "中学生",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101251819",
@@ -266,8 +266,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167653036",
@@ -281,23 +281,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4065296838",
     "title": "この世の喜びよ",
     "author": "井戸川射子",
     "award": "芥川賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4065296838.09.LZZZZZZZ",
     "summary": "ショッピングセンターの喪服売り場で働く主人公が、フードコートの常連の少女と知り合う物語。",
-    "characters_age": "不明",
+    "characters_age": "nan",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4103982020",
@@ -311,8 +311,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062771152",
@@ -326,8 +326,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167102013",
@@ -341,8 +341,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163217606",
@@ -356,8 +356,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4103341947",
@@ -371,38 +371,38 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101015813",
     "title": "しんせかい",
     "author": "山下澄人",
     "award": "芥川賞",
-    "location": "架空",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "青春小説",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4103503610.09.LZZZZZZZ",
     "summary": "役者志望の主人公スミトは、独特な演劇塾で生活しながら成長し、卒業していく様子を描いた青春小説。",
     "characters_age": "18歳~19歳",
     "characters": "大学生",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163907955",
     "title": "そして、バトンは渡された",
     "author": "瀬尾まいこ",
     "award": "本屋大賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4163907955.09.LZZZZZZZ",
     "summary": "血の繋がらない親たちを「リレー」されながら成長していく17歳の森宮優子の、複雑で温かい家族の物語。",
     "characters_age": "17歳",
     "characters": "高校生",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062036398",
@@ -416,8 +416,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4865965335",
@@ -431,8 +431,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167432021",
@@ -446,8 +446,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4103553413",
@@ -461,8 +461,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163903690",
@@ -476,8 +476,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4059003239",
@@ -491,8 +491,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4860553926",
@@ -506,23 +506,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101391416",
     "title": "ふがいない僕は空を見た",
     "author": "窪美澄",
     "award": "山本周五郎賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "青春小説",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4103259213.09.LZZZZZZZ",
     "summary": "高校生の卓巳は人妻と不倫関係になり、その後破局。その不倫関係がネットに晒され、学校を休み、周囲の人間関係にも影響を与える出来事が描かれる。",
     "characters_age": "17歳~18歳",
     "characters": "高校生",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4396338104",
@@ -536,8 +536,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062759330",
@@ -551,8 +551,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4043596014",
@@ -560,11 +560,11 @@
     "author": "岩井志麻子",
     "award": "山本周五郎賞",
     "location": "岡山",
-    "season": "不明",
+    "season": "nan",
     "genre": "ホラー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "岡山の遊廓で働く醜い女郎が、恐ろしい身の上話を語る短編集。明治・大正時代の岡山を舞台に、人間の狂気や残忍さを描いた四編の物語。",
-    "characters_age": "不明",
+    "characters_age": "nan",
     "characters": "社会人",
     "latitude": 38.023273,
     "longitude": 140.788605
@@ -575,7 +575,7 @@
     "author": "三浦しをん",
     "award": "直木賞",
     "location": "町田市（神奈川県）",
-    "season": "不明",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4167761017.09.LZZZZZZZ",
     "summary": "神奈川県町田市をモデルにした架空の街「まほろ市」で、バツイチの便利屋と彼の旧友が営む便利屋の1年間を描いた物語。奇妙な依頼を通して、様々な人間模様が描かれる。",
@@ -596,8 +596,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "416305510X",
@@ -611,8 +611,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4087735249",
@@ -626,8 +626,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062776243",
@@ -641,8 +641,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "416714901X",
@@ -656,8 +656,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4065211204",
@@ -671,8 +671,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4152101571",
@@ -686,8 +686,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4061960040",
@@ -716,8 +716,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167257017",
@@ -731,8 +731,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101112037",
@@ -746,23 +746,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4801000622",
     "title": "アメリカン・スクール",
     "author": "小島信夫",
     "award": "芥川賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "敗戦直後の日本で、英語教育視察のため米軍基地近くのアメリカンスクールを訪れた中学校教師たちの、英語力不足と日米関係の不均衡を風刺した小説。",
     "characters_age": "30歳～39歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062755033",
@@ -776,8 +776,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -791,8 +791,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101349169",
@@ -814,15 +814,15 @@
     "title": "エーゲ海に捧ぐ",
     "author": "池田満寿夫",
     "award": "芥川賞",
-    "location": "不明",
+    "location": "nan",
     "season": "夏",
     "genre": "恋愛小説",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "ローマで絵を学ぶ青年ニコスは、娼婦のエルダと肉体関係を持ち結婚するが、その後も他の女性と関係を持ち、妻や周囲の女性たちとエーゲ海で奔放な生活を送るが、最後に妻の妹リーザに銃を向けられる。",
     "characters_age": "20歳~29歳",
     "characters": "大学生",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167247011",
@@ -836,8 +836,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4652071132",
@@ -851,23 +851,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062758121",
     "title": "カタコンベ",
     "author": "神山裕右",
     "award": "江戸川乱歩賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "神山裕右のデビュー作にして江戸川乱歩賞受賞作の長編推理小説・冒険小説。",
-    "characters_age": "不明",
-    "characters": "不明",
-    "latitude": "",
-    "longitude": ""
+    "characters_age": "nan",
+    "characters": "nan",
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062756404",
@@ -881,8 +881,8 @@
     "summary": "スペインのギターの名器「カディスの赤い星」の行方を追うPR会社員漆田亮が、スペインで過激派組織の陰謀に巻き込まれる。",
     "characters_age": "30歳~39歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062178508",
@@ -896,8 +896,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062757753",
@@ -911,23 +911,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163180702",
     "title": "ゲルマニウムの夜",
     "author": "花村萬月",
     "award": "芥川賞",
-    "location": "架空",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "衝動的に人を殺した青年が、修道院に逃げ帰り、そこで宗教や社会の偽善を暴いていく物語。",
     "characters_age": "20歳~29歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4150314055",
@@ -941,38 +941,38 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062900440",
     "title": "コシャマイン記",
     "author": "鶴田知也",
     "award": "芥川賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "歴史小説",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "アイヌの酋長コシャマインの生涯を描いた物語。日本人との争い、同族間の対立、そして裏切りと悲劇的な最期を叙事詩的に描く。",
-    "characters_age": "不明",
-    "characters": "その他",
-    "latitude": "",
-    "longitude": ""
+    "characters_age": "nan",
+    "characters": "nan",
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163906185",
     "title": "コンビニ人間",
     "author": "村田沙耶香",
     "award": "芥川賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4163906185.09.LZZZZZZZ",
     "summary": "コンビニで18年間アルバイトを続ける30代女性の、変わり者であるがゆえの生きづらさと、コンビニという枠組みの中で見出す自分自身のアイデンティティを描いた物語。",
     "characters_age": "30歳~39歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "410125026X",
@@ -980,7 +980,7 @@
     "author": "伊坂幸太郎",
     "award": "山本周五郎賞 | 本屋大賞",
     "location": "仙台市",
-    "season": "不明",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4104596035.09.LZZZZZZZ",
     "summary": "首相暗殺の濡れ衣を着せられた宅配ドライバーが、2日間逃亡するミステリー小説。",
@@ -1001,8 +1001,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4103557311",
@@ -1016,8 +1016,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4152099194",
@@ -1030,9 +1030,9 @@
     "image": "https://images-na.ssl-images-amazon.com/images/P/4152099194.09.LZZZZZZZ",
     "summary": "ノースカロライナ州の湿地で育った孤児のカイアが、町の人気者の殺人容疑で逮捕され、裁判を通して過去のトラウマや真実が明らかになる物語。",
     "characters_age": "10歳~19歳",
-    "characters": "その他（孤児）",
-    "latitude": "",
-    "longitude": ""
+    "characters": "nan",
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4103361522",
@@ -1046,8 +1046,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4036523902",
@@ -1061,38 +1061,38 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163903402",
     "title": "スクラップ・アンド・ビルド",
     "author": "羽田圭介",
     "award": "芥川賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4167910667.09.LZZZZZZZ",
     "summary": "就職活動中の28歳男性が、要介護の祖父の介護をしながら、祖父の死を願いつつ葛藤する様子を描いた物語。",
     "characters_age": "28歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "486239293",
     "title": "スティル・ライフ",
     "author": "池澤夏樹",
     "award": "芥川賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "染色工場で出会った佐々井と「ぼく」が、佐々井の公金横領という過去を背景に、奇妙な共同生活を送る物語。",
-    "characters_age": "不明",
+    "characters_age": "nan",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4877284753",
@@ -1106,8 +1106,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167592010",
@@ -1115,12 +1115,12 @@
     "author": "笙野頼子",
     "award": "芥川賞",
     "location": "鶴見",
-    "season": "不明",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "歪んだ時空の中で、マグロの夢をきっかけに、語り手が中央線沿線から鶴見、海芝浦、浅野と移動し、沖縄会館で自身の現実を直視する短編小説。",
-    "characters_age": "不明",
-    "characters": "不明",
+    "characters_age": "nan",
+    "characters": "nan",
     "latitude": 35.508492,
     "longitude": 139.682388
   },
@@ -1136,8 +1136,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4334101399",
@@ -1151,8 +1151,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4041146186",
@@ -1166,8 +1166,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4043847017",
@@ -1196,23 +1196,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163902295",
     "title": "ナイルパーチの女子会",
     "author": "柚木麻子",
     "award": "山本周五郎賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4163902295.09.LZZZZZZZ",
     "summary": "30歳の会社員と専業主婦のブロガーの友情と、その関係が思いもよらない方向へ進むさまを描いた物語。",
     "characters_age": "30歳~39歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4061362356",
@@ -1226,8 +1226,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4390109464",
@@ -1241,8 +1241,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4065224500",
@@ -1250,7 +1250,7 @@
     "author": "上田岳弘",
     "award": "芥川賞",
     "location": "東京",
-    "season": "不明",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4065143470.09.LZZZZZZZ",
     "summary": "システムエンジニアの中本哲史が、ビットコイン採掘事業に携わる中で、仮想通貨と「駄目な飛行機コレクション」というモチーフを通して、情報化社会における人間の生き様を描く現代小説。",
@@ -1271,8 +1271,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167172038",
@@ -1286,8 +1286,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4065170974",
@@ -1301,8 +1301,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -1316,8 +1316,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163223401",
@@ -1331,8 +1331,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163917128",
@@ -1346,8 +1346,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4065369606",
@@ -1361,23 +1361,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4344405153",
     "title": "パレード",
     "author": "吉田修一",
     "award": "山本周五郎賞",
-    "location": "不明",
-    "season": "不明",
-    "genre": "その他（舞台劇の小説化の可能性が高い）",
+    "location": "nan",
+    "season": "nan",
+    "genre": "nan",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4344001559.09.LZZZZZZZ",
     "summary": "24歳のイラストレーター兼雑貨屋店長、無職の女性、自称18歳の男娼、大学生など、若者たちの群像劇を描いた小説。人間心理の深みと意外なラストが特徴。",
     "characters_age": "24歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167665034",
@@ -1391,38 +1391,38 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101349150",
     "title": "ビタミンF",
     "author": "重松清",
     "award": "直木賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "重松清の短編小説集で、直木賞を受賞した作品。複数の短編が収録されており、それぞれ異なる登場人物と物語が描かれている。",
-    "characters_age": "不明",
-    "characters": "不明",
-    "latitude": "",
-    "longitude": ""
+    "characters_age": "nan",
+    "characters": "nan",
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163908412",
     "title": "ファーストラヴ",
     "author": "島本理生",
     "award": "直木賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4163908412.09.LZZZZZZZ",
     "summary": "女子大生による父親殺害事件をきっかけに、臨床心理士と弁護士が事件の真相を追い求め、家族の闇を暴いていくミステリー小説。",
     "characters_age": "30歳～39歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4065361915",
@@ -1436,8 +1436,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "406275195X",
@@ -1451,8 +1451,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4309413242",
@@ -1466,8 +1466,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "406527365X",
@@ -1481,23 +1481,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4575231886",
     "title": "プラスティック",
     "author": "井上夢人",
     "award": "本屋大賞",
-    "location": "架空",
+    "location": "nan",
     "season": "春",
     "genre": "恋愛小説",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4575231886.09.LZZZZZZZ",
     "summary": "大学受験に失敗した18歳の青年が、アンドロイド「ギフティア」の回収業務を行う部署に配属され、寿命が近いギフティア「アイラ」と恋に落ちる物語。",
     "characters_age": "18歳",
     "characters": "高校生",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167708019",
@@ -1511,8 +1511,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4061830732",
@@ -1526,8 +1526,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062771551",
@@ -1541,8 +1541,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4061982710",
@@ -1556,23 +1556,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101139016",
     "title": "プールサイド小景",
     "author": "庄野潤三",
     "award": "芥川賞",
-    "location": "不明",
+    "location": "nan",
     "season": "夏",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "会社をクビになった男が、息子たちとプールに通いながら、妻と自身の内面と葛藤する様子を描いた短編小説。",
     "characters_age": "40歳~49歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101160015",
@@ -1586,23 +1586,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4087453251",
     "title": "ホテルローヤル",
     "author": "桜木紫乃",
     "award": "直木賞",
-    "location": "架空",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4087714926.09.LZZZZZZZ",
     "summary": "湿原にあるラブホテルを舞台に、様々な問題を抱えた宿泊客や従業員、経営者家族の人間模様を描いた短編集。",
     "characters_age": "20歳~29歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4122070759",
@@ -1616,8 +1616,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062769298",
@@ -1639,30 +1639,30 @@
     "title": "マッチメイク",
     "author": "不知火京介",
     "award": "江戸川乱歩賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "新人プロレスラーが、スター選手の不可解な死をきっかけにプロレス界の闇と殺人事件に巻き込まれるミステリー。",
     "characters_age": "20歳～29歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062734915",
     "title": "マークスの山",
     "author": "高村薫",
     "award": "直木賞",
-    "location": "架空",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "南アルプスでの親子心中事件から生き残った少年が成長し、「マークス」と名乗り連続殺人犯となる事件を描いた推理小説。",
     "characters_age": "33歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4103351012",
@@ -1676,8 +1676,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4061842560",
@@ -1691,8 +1691,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4087457486",
@@ -1706,8 +1706,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4769800983",
@@ -1721,23 +1721,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062764083",
     "title": "一瞬の風になれ",
     "author": "佐藤多佳子",
     "award": "本屋大賞",
-    "location": "架空",
+    "location": "nan",
     "season": "春",
     "genre": "青春小説",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4062135620.09.LZZZZZZZ",
     "summary": "高校陸上部の仲間たちの青春と成長、友情、そして恋を描いた物語。",
     "characters_age": "16歳~18歳",
     "characters": "高校生",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062760282",
@@ -1745,7 +1745,7 @@
     "author": "宮尾登美子",
     "award": "直木賞",
     "location": "土佐",
-    "season": "不明",
+    "season": "nan",
     "genre": "歴史小説",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "幕末から明治にかけての土佐を舞台に、一絃琴の音色に魅せられた2人の女性の生涯と確執を描く物語。",
@@ -1766,8 +1766,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4396636121",
@@ -1781,8 +1781,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062764423",
@@ -1811,23 +1811,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4860556569",
     "title": "下町ロケット",
     "author": "池井戸潤",
     "award": "直木賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/409407063X.09.LZZZZZZZ",
     "summary": "宇宙科学開発機構の元研究員が父の後を継ぎ、中小企業「佃製作所」の社長となり、社員と共に様々な困難を乗り越え、成長していく物語。",
     "characters_age": "43歳~54歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "410397107X",
@@ -1841,8 +1841,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167692015",
@@ -1856,8 +1856,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -1871,8 +1871,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4103276614",
@@ -1901,8 +1901,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4087444384",
@@ -1916,8 +1916,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167791013",
@@ -1946,8 +1946,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167567032",
@@ -1961,8 +1961,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062649780",
@@ -1976,23 +1976,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101192219",
     "title": "五年の梅",
     "author": "乙川優三郎",
     "award": "山本周五郎賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "歴史小説",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "山本周五郎賞を時代小説として初めて受賞した乙川優三郎の短編集。「後瀬の花」「行き道」「小田原鰹」「蟹」「五年の梅」「ロゴスの市」の6つの作品を収録。",
-    "characters_age": "不明",
-    "characters": "不明",
-    "latitude": "",
-    "longitude": ""
+    "characters_age": "nan",
+    "characters": "nan",
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4806021288",
@@ -2015,11 +2015,11 @@
     "author": "青島幸男",
     "award": "直木賞",
     "location": "東京",
-    "season": "不明",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "戦中から戦後にかけての東京の下町で、仕出し弁当屋を営む女性ハナの波乱万丈な人生を描く物語。",
-    "characters_age": "不明",
+    "characters_age": "nan",
     "characters": "主婦",
     "latitude": 43.076111,
     "longitude": 141.363617
@@ -2036,8 +2036,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4061360302",
@@ -2051,8 +2051,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062620952",
@@ -2066,8 +2066,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167308010",
@@ -2081,8 +2081,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062055406",
@@ -2096,8 +2096,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4309409571",
@@ -2111,23 +2111,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4103330619",
     "title": "何者",
     "author": "朝井リョウ",
     "award": "直木賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "青春小説",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4103330619.09.LZZZZZZZ",
     "summary": "就職活動に励む5人の大学生が、SNSや面接を通してそれぞれの思いや悩みを吐露し、人間関係に変化が生じる様を描いた物語。",
     "characters_age": "22歳",
     "characters": "大学生",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -2141,8 +2141,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4309409245",
@@ -2156,8 +2156,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163060308",
@@ -2171,8 +2171,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062775581",
@@ -2186,23 +2186,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4087468917",
     "title": "光媒の花",
     "author": "道尾秀介",
     "award": "山本周五郎賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4087713377.09.LZZZZZZZ",
     "summary": "道尾秀介による連作短編小説集で、複数の短編が「小説すばる」に掲載された後、書籍化された。",
-    "characters_age": "不明",
-    "characters": "不明",
-    "latitude": "",
-    "longitude": ""
+    "characters_age": "nan",
+    "characters": "nan",
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101024111",
@@ -2216,8 +2216,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -2231,8 +2231,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062734613",
@@ -2246,8 +2246,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163917322",
@@ -2261,8 +2261,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163254005",
@@ -2276,8 +2276,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4575500976",
@@ -2291,38 +2291,38 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4087450236",
     "title": "共喰い",
     "author": "田中慎弥",
     "award": "芥川賞",
-    "location": "不明",
+    "location": "nan",
     "season": "夏",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4087714470.09.LZZZZZZZ",
     "summary": "昭和63年夏、暴力的な父親と愛人のもとで暮らす17歳の高校生が、自身の父性と暴力性、そして恋人への不安に苦悩する物語。",
     "characters_age": "17歳",
     "characters": "高校生",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062164655",
     "title": "再会",
     "author": "横関大",
     "award": "江戸川乱歩賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4062164655.09.LZZZZZZZ",
     "summary": "小学校卒業式前日にタイムカプセルに隠した拳銃が、23年後、事件に関わった4人の同級生を再び繋ぐミステリー。",
     "characters_age": "39歳~49歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4065381592",
@@ -2336,8 +2336,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4309021220",
@@ -2351,23 +2351,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101425205",
     "title": "凍える牙",
     "author": "乃南アサ",
     "award": "直木賞",
-    "location": "不明",
+    "location": "nan",
     "season": "冬",
     "genre": "ミステリー",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4103710098.09.LZZZZZZZ",
     "summary": "深夜のレストランで発生した謎の発火事件を、若手刑事とベテラン刑事が犬にまつわる連続殺人事件と関連付けながら捜査する。",
     "characters_age": "20歳~29歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167534010",
@@ -2381,8 +2381,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4104731021",
@@ -2396,8 +2396,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "456967546",
@@ -2426,8 +2426,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4061854410",
@@ -2441,8 +2441,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4093524262",
@@ -2456,8 +2456,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -2471,8 +2471,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4093523924",
@@ -2486,8 +2486,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4065249961",
@@ -2501,23 +2501,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4860553152",
     "title": "博士の愛した数式",
     "author": "小川洋子",
     "award": "本屋大賞",
-    "location": "不明",
-    "season": "秋（あらすじから、季節は特に断られていないが、小説が発表された時期（2003年8月）から判断）",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "記憶が80分しか持続しない元数学者と、彼の家政婦とその息子との交流を描いた物語。",
     "characters_age": "64歳~74歳",
     "characters": "高齢者",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062638770",
@@ -2531,8 +2531,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4106201348",
@@ -2546,8 +2546,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4061307940",
@@ -2561,8 +2561,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4884191005",
@@ -2576,8 +2576,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4059002755",
@@ -2591,8 +2591,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4103808063",
@@ -2606,8 +2606,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "434401295X",
@@ -2615,12 +2615,12 @@
     "author": "松井今朝子",
     "award": "直木賞",
     "location": "吉原遊廓",
-    "season": "不明",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://images-na.ssl-images-amazon.com/images/P/434401295X.09.LZZZZZZZ",
     "summary": "名妓が失踪した事件を、関係者への聞き込みによって解き明かしていくミステリー小説。",
-    "characters_age": "不明",
-    "characters": "不明",
+    "characters_age": "nan",
+    "characters": "nan",
     "latitude": 38.227329,
     "longitude": 140.303314
   },
@@ -2629,15 +2629,15 @@
     "title": "吉野朝太平記",
     "author": "鷲尾雨工",
     "award": "直木賞",
-    "location": "架空",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "歴史小説",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "楠木正儀を主人公とした南北朝時代の歴史小説で、珍しい史実を用いた力作。",
-    "characters_age": "不明",
-    "characters": "不明",
-    "latitude": "",
-    "longitude": ""
+    "characters_age": "nan",
+    "characters": "nan",
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4152100648",
@@ -2651,38 +2651,38 @@
     "summary": "ドイツ軍に家族を殺された少女セラフィマが、狙撃兵として復讐を果たすため、スターリングラードの戦場へと赴く物語。",
     "characters_age": "17歳~19歳",
     "characters": "高校生",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101329710",
     "title": "君たちに明日はない",
     "author": "垣根涼介",
     "award": "山本周五郎賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4104750018.09.LZZZZZZZ",
     "summary": "リストラ専門会社の社員が、様々な企業でリストラ対象となった人々と面接を行い、彼らの苦悩や決断を描く物語。",
     "characters_age": "30歳~39歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4575302252",
     "title": "告白",
     "author": "湊かなえ",
     "award": "本屋大賞",
-    "location": "架空",
+    "location": "nan",
     "season": "冬",
     "genre": "ミステリー",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4575236284.09.LZZZZZZZ",
     "summary": "娘を殺された教師が、犯人である生徒2人に復讐を仕掛け、その過程を描いた物語。",
     "characters_age": "30歳～39歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -2696,8 +2696,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4093523940",
@@ -2711,8 +2711,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "448845801",
@@ -2726,8 +2726,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101289522",
@@ -2741,8 +2741,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167329018",
@@ -2756,8 +2756,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -2771,8 +2771,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4087718018",
@@ -2786,8 +2786,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "404111165X",
@@ -2801,8 +2801,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -2816,8 +2816,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -2831,8 +2831,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4087446573",
@@ -2846,8 +2846,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4093524858",
@@ -2861,23 +2861,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101121028",
     "title": "壁",
     "author": "安部公房",
     "award": "芥川賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "オムニバス形式の短編集で、存在意義を失った男が壁になる表題作「S・カルマ氏の犯罪」など、不条理でシュールな世界観を描いた6編を収録。",
-    "characters_age": "不明",
+    "characters_age": "nan",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -2891,8 +2891,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163011900",
@@ -2906,53 +2906,53 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062100800",
     "title": "夏の約束",
     "author": "藤野千夜",
     "award": "芥川賞",
-    "location": "不明",
+    "location": "nan",
     "season": "夏",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "芥川賞受賞作である藤野千夜による短編小説集で、「夏の約束」と「主婦と交番」を収録。",
-    "characters_age": "不明",
-    "characters": "不明",
-    "latitude": "",
-    "longitude": ""
+    "characters_age": "nan",
+    "characters": "nan",
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163197508",
     "title": "夏姫春秋",
     "author": "宮城谷昌光",
     "award": "直木賞",
-    "location": "架空",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "歴史小説",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "春秋時代の絶世の美女・夏姫の波乱に満ちた生涯を描いた物語。様々な男性との関係、権力闘争、そして逃亡劇など、壮大なスケールで展開する。",
     "characters_age": "20歳～29歳",
-    "characters": "その他",
-    "latitude": "",
-    "longitude": ""
+    "characters": "nan",
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101131015",
     "title": "夜と霧の隅で",
     "author": "北杜夫",
     "award": "芥川賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "北杜夫が1960年に発表した芥川賞受賞の中編小説。詳細は不明。",
-    "characters_age": "不明",
-    "characters": "不明",
-    "latitude": "",
-    "longitude": ""
+    "characters_age": "nan",
+    "characters": "nan",
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167923289",
@@ -2966,8 +2966,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4103971053",
@@ -3011,8 +3011,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062620693",
@@ -3026,8 +3026,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4041473012",
@@ -3041,23 +3041,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062130556",
     "title": "天使のナイフ",
     "author": "薬丸岳",
     "award": "江戸川乱歩賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "妻を少年に殺されたシングルファーザーが、復讐の念を抱えながら、事件の真相を追い求める。",
     "characters_age": "30歳～39歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4041003180",
@@ -3086,8 +3086,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "430940409X",
@@ -3101,8 +3101,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4394904587",
@@ -3116,8 +3116,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "412200859X",
@@ -3131,8 +3131,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "434400213X",
@@ -3161,8 +3161,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -3176,23 +3176,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167557010",
     "title": "妊娠カレンダー",
     "author": "小川洋子",
     "award": "芥川賞",
-    "location": "不明",
+    "location": "nan",
     "season": "冬",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "姉の妊娠をきっかけに、日記形式で7か月半に渡る自身の心情や出来事を綴った小説。",
     "characters_age": "20歳~29歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167231018",
@@ -3200,12 +3200,12 @@
     "author": "三好京三",
     "award": "直木賞",
     "location": "奥州市衣川",
-    "season": "不明",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "岩手県衣川村（現・奥州市衣川）の旧衣川小学校大森分校を舞台に、教師が作家の娘を引き取った実体験に基づく物語。",
-    "characters_age": "不明",
-    "characters": "不明",
+    "characters_age": "nan",
+    "characters": "nan",
     "latitude": 39.013508,
     "longitude": 141.10434
   },
@@ -3221,8 +3221,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4061360426",
@@ -3236,23 +3236,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4122051053",
     "title": "安徳天皇漂海記",
     "author": "宇月原晴明",
     "award": "山本周五郎賞",
-    "location": "架空",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "ファンタジー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "壇ノ浦の戦いで入水した安徳天皇の魂をめぐり、源実朝とマルコ・ポーロの視点から、その成仏までの物語を描く。",
-    "characters_age": "不明",
-    "characters": "その他",
-    "latitude": "",
-    "longitude": ""
+    "characters_age": "nan",
+    "characters": "nan",
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062171325",
@@ -3266,8 +3266,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4065118638",
@@ -3275,12 +3275,12 @@
     "author": "真藤順丈",
     "award": "直木賞",
     "location": "沖縄",
-    "season": "不明",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4065118638.09.LZZZZZZZ",
     "summary": "沖縄戦後の米軍統治下、孤児のリーダー「オンちゃん」率いる「戦果アギヤー」の活躍と、その後それぞれの人生を歩む仲間たちの物語。",
     "characters_age": "10歳~19歳",
-    "characters": "その他（孤児）",
+    "characters": "nan",
     "latitude": 26.334202,
     "longitude": 127.805649
   },
@@ -3296,23 +3296,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163238603",
     "title": "容疑者Xの献身",
     "author": "東野圭吾",
     "award": "直木賞",
-    "location": "不明",
+    "location": "nan",
     "season": "春",
     "genre": "ミステリー",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4163238603.09.LZZZZZZZ",
     "summary": "元夫を殺害した母子を、隣に住む天才数学者が完璧なアリバイ工作で救うが、その裏に隠された真実を天才物理学者が解き明かしていくミステリー小説。",
     "characters_age": "30歳～39歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062063433",
@@ -3326,8 +3326,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -3341,8 +3341,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -3356,23 +3356,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163235108",
     "title": "対岸の彼女",
     "author": "角田光代",
     "award": "直木賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4163235108.09.LZZZZZZZ",
     "summary": "角田光代による直木賞受賞小説で、複数の登場人物の視点から物語が展開される。",
-    "characters_age": "不明",
-    "characters": "不明",
-    "latitude": "",
-    "longitude": ""
+    "characters_age": "nan",
+    "characters": "nan",
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "416754301X",
@@ -3386,8 +3386,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163292306",
@@ -3401,8 +3401,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4394904072",
@@ -3416,8 +3416,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "416311730X",
@@ -3431,8 +3431,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -3446,23 +3446,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167920212",
     "title": "少年と犬",
     "author": "馳星周",
     "award": "直木賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4160901247.09.LZZZZZZZ",
     "summary": "東日本大震災で飼い主を失った犬「多聞」が、様々な人々と出会い、日本各地を旅する物語。",
-    "characters_age": "不明",
-    "characters": "その他（犬）",
-    "latitude": "",
-    "longitude": ""
+    "characters_age": "nan",
+    "characters": "nan",
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -3476,8 +3476,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -3491,8 +3491,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "410414701X",
@@ -3506,8 +3506,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -3521,23 +3521,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4900997412",
     "title": "岬",
     "author": "中上健次",
     "award": "芥川賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "複雑な家族関係と血の繋がり、そして自身の鬱屈した感情に苦しむ若者が、事件をきっかけに自堕落な行動に走ることで、自らの運命と向き合う物語。",
     "characters_age": "20歳~29歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "406264620X",
@@ -3545,7 +3545,7 @@
     "author": "渡辺容子",
     "award": "江戸川乱歩賞",
     "location": "横浜市磯子区",
-    "season": "不明",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "別れた愛人の妻が殺害された事件で嫌疑をかけられたスーパーの保安士が、自身の無実を証明するため真相を追い求める。",
@@ -3566,8 +3566,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167414090",
@@ -3581,8 +3581,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4334792650",
@@ -3596,8 +3596,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -3611,8 +3611,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167138018",
@@ -3626,8 +3626,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4087488594",
@@ -3641,8 +3641,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167796031",
@@ -3656,8 +3656,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -3671,8 +3671,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4793380182",
@@ -3686,8 +3686,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -3701,8 +3701,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163907289",
@@ -3710,7 +3710,7 @@
     "author": "沼田真佑",
     "award": "芥川賞",
     "location": "盛岡",
-    "season": "不明",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4163907289.09.LZZZZZZZ",
     "summary": "会社員の男性が、突然辞めた同僚の足跡を追い、同僚の裏の顔を知っていく物語。",
@@ -3731,8 +3731,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4043620047",
@@ -3761,8 +3761,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4061315471",
@@ -3770,7 +3770,7 @@
     "author": "佐木隆三",
     "award": "直木賞",
     "location": "浜松",
-    "season": "不明",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "戦後の闇市で起きた殺人事件とその復讐劇を描いた小説。主人公は事件の加害者であり、その動機や過程、そしてその後の人生が描かれる。",
@@ -3791,23 +3791,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4087717275",
     "title": "心淋し川",
     "author": "西條奈加",
     "award": "直木賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4087717275.09.LZZZZZZZ",
     "summary": "西條奈加による連作短編小説集で、直木賞を受賞した「心淋し川」を含む6編の作品が収録されている。",
-    "characters_age": "不明",
-    "characters": "不明",
-    "latitude": "",
-    "longitude": ""
+    "characters_age": "nan",
+    "characters": "nan",
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101135010",
@@ -3815,7 +3815,7 @@
     "author": "三浦哲郎",
     "award": "芥川賞",
     "location": "東京（深川）",
-    "season": "秋（初夜を迎えるまでの過程を描いていることから、秋が最も重要と推測）",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "東京の料亭で働く女性と、青森出身の大学生が結婚するまでの過程を描いた私小説。",
@@ -3836,8 +3836,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101440166",
@@ -3850,7 +3850,7 @@
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "あさま山荘事件の陰で起きた女子大生による殺人事件の真相を、ノンフィクション作家が犯人へのインタビューを通して解き明かしていく物語。",
     "characters_age": "22歳~63歳",
-    "characters": "大学生、その他（元受刑者）",
+    "characters": "nan",
     "latitude": 40.228016,
     "longitude": 140.654343
   },
@@ -3866,23 +3866,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101405042",
     "title": "恋文",
     "author": "連城三紀彦",
     "award": "直木賞",
-    "location": "不明",
+    "location": "nan",
     "season": "秋",
     "genre": "恋愛小説",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "複数の女性と関わりを持った一人の男性を巡る、それぞれの女性の視点から描かれる恋愛ドラマ。",
     "characters_age": "30歳~39歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062185008",
@@ -3896,8 +3896,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4103620013",
@@ -3911,8 +3911,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4065260752",
@@ -3926,8 +3926,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -3941,8 +3941,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163276408",
@@ -3971,8 +3971,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163200606",
@@ -3986,8 +3986,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163036202",
@@ -4001,8 +4001,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4103549513",
@@ -4046,8 +4046,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167111276",
@@ -4061,8 +4061,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062638754",
@@ -4076,38 +4076,38 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "430941978X",
     "title": "推し、燃ゆ",
     "author": "宇佐見りん",
     "award": "芥川賞",
-    "location": "不明",
+    "location": "nan",
     "season": "秋",
     "genre": "青春小説",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4309029167.09.LZZZZZZZ",
     "summary": "家族関係もうまくいかず、アイドル「真幸」を推すことで生きがいを見出していた女子高生・あかりが、真幸の事件をきっかけに心のバランスを崩していく物語。",
     "characters_age": "15歳~17歳",
     "characters": "高校生",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062023423",
     "title": "放課後",
     "author": "東野圭吾",
     "award": "江戸川乱歩賞",
-    "location": "架空",
+    "location": "nan",
     "season": "秋",
     "genre": "ミステリー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "名門女子高で教師が殺害される密室殺人の謎と、教師を脅かす何者かの正体を、アーチェリー部顧問の教師が解き明かす青春推理小説。",
     "characters_age": "30歳～39歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167157195",
@@ -4121,8 +4121,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4643930691",
@@ -4136,8 +4136,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101290318",
@@ -4174,30 +4174,30 @@
     "title": "明日の記憶",
     "author": "荻原浩",
     "award": "山本周五郎賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4334924468.09.LZZZZZZZ",
     "summary": "49歳の広告代理店社員が若年性アルツハイマー病になり、仕事、家族、そして自分自身と向き合う物語。",
     "characters_age": "49歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163216502",
     "title": "星々の舟",
     "author": "村山由佳",
     "award": "直木賞",
-    "location": "架空",
+    "location": "nan",
     "season": "冬",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4163216502.09.LZZZZZZZ",
     "summary": "架空の水島家6人の家族を通して、それぞれの過去や葛藤、そして家族間の複雑な関係を描いた群像劇。",
     "characters_age": "不明（各章で異なる）",
-    "characters": "その他（家族構成員）",
-    "latitude": "",
-    "longitude": ""
+    "characters": "nan",
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163913653",
@@ -4211,23 +4211,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163901019",
     "title": "春の庭",
     "author": "柴崎友香",
     "award": "芥川賞",
-    "location": "架空",
+    "location": "nan",
     "season": "春",
     "genre": "ミステリー",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4163901019.09.LZZZZZZZ",
     "summary": "元美容師の太郎が住むアパートで、隣人の漫画家・西が、古い写真集に写る洋館に執着し、住人に近づき、風呂場に入るという不可解な行動をとる様子を描いた物語。",
     "characters_age": "30歳~39歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -4241,8 +4241,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "434402446X",
@@ -4256,8 +4256,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167786028",
@@ -4265,7 +4265,7 @@
     "author": "楊逸",
     "award": "芥川賞",
     "location": "北京",
-    "season": "不明",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4163273603.09.LZZZZZZZ",
     "summary": "1989年の天安門事件を背景に、民主化運動に参加した中国の大学生2人の挫折と、その後の人生を描いた小説。",
@@ -4286,8 +4286,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4041502071",
@@ -4295,7 +4295,7 @@
     "author": "村松友視",
     "award": "直木賞",
     "location": "東京",
-    "season": "不明",
+    "season": "nan",
     "genre": "恋愛小説",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "東京・大井の骨董屋「時代屋」を営む35歳の独身男性と、そこにやってきた女性の恋物語。",
@@ -4309,15 +4309,15 @@
     "title": "普賢",
     "author": "石川淳",
     "award": "芥川賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "一家破産し貧困生活を送る青年が、様々な人間関係や出来事を通して、人間の業や世間の苦しみを目の当たりにする物語。",
     "characters_age": "20歳~29歳",
     "characters": "大学生",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163642404",
@@ -4331,8 +4331,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062649624",
@@ -4346,8 +4346,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101049017",
@@ -4361,8 +4361,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163087303",
@@ -4376,8 +4376,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163295607",
@@ -4391,8 +4391,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4000014110",
@@ -4400,7 +4400,7 @@
     "author": "佐藤正午",
     "award": "直木賞",
     "location": "東京",
-    "season": "不明",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4000014080.09.LZZZZZZZ",
     "summary": "妻と娘を事故で亡くした男が、娘の生まれ変わりと出会うことで、過去と現在の愛のつながりを巡る物語。",
@@ -4414,15 +4414,15 @@
     "title": "月山",
     "author": "森敦",
     "award": "芥川賞",
-    "location": "不明",
-    "season": "不明",
-    "genre": "その他",
+    "location": "nan",
+    "season": "nan",
+    "genre": "nan",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "注連寺を舞台とした、キャスト情報のみが記載された作品。具体的なストーリーは不明。",
-    "characters_age": "不明",
-    "characters": "不明",
-    "latitude": "",
-    "longitude": ""
+    "characters_age": "nan",
+    "characters": "nan",
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "410352023X",
@@ -4436,8 +4436,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -4451,8 +4451,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167316048",
@@ -4466,23 +4466,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101349800",
     "title": "村上海賊の娘",
     "author": "和田竜",
     "award": "本屋大賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "歴史小説",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4103068825.09.LZZZZZZZ",
     "summary": "戦国時代の村上水軍の当主の娘、景が、毛利家の依頼で本願寺への物資輸送に携わり、戦いに身を投じる物語。",
     "characters_age": "20歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4828821090",
@@ -4496,8 +4496,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101275718",
@@ -4511,8 +4511,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062135604",
@@ -4541,8 +4541,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4103555114",
@@ -4550,11 +4550,11 @@
     "author": "九段理江",
     "award": "芥川賞",
     "location": "東京",
-    "season": "不明",
+    "season": "nan",
     "genre": "SF",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4103555114.09.LZZZZZZZ",
     "summary": "近未来の東京に建設が計画された高層刑務所「シンパシータワートーキョー」の設計に挑む主人公牧名沙羅を描いた物語。",
-    "characters_age": "不明",
+    "characters_age": "nan",
     "characters": "社会人",
     "latitude": 43.076111,
     "longitude": 141.363617
@@ -4571,8 +4571,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062093677",
@@ -4580,7 +4580,7 @@
     "author": "池井戸潤",
     "award": "江戸川乱歩賞",
     "location": "渋谷",
-    "season": "不明",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4062093677.09.LZZZZZZZ",
     "summary": "二都銀行の融資担当者伊木遥が、友人の不審な死の真相を追ううちに、銀行の不正や巨大な陰謀に巻き込まれていく物語。",
@@ -4601,8 +4601,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4087463974",
@@ -4616,8 +4616,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062079194",
@@ -4631,8 +4631,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101152012",
@@ -4661,8 +4661,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163916954",
@@ -4676,8 +4676,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4103317515",
@@ -4685,14 +4685,14 @@
     "author": "原田マハ",
     "award": "山本周五郎賞",
     "location": "バーゼル",
-    "season": "不明",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4103317515.09.LZZZZZZZ",
     "summary": "ルソーの絵画の真贋鑑定を巡り、美術史研究者とキュレーターが競い合うミステリー小説。",
     "characters_age": "26歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4103282010",
@@ -4706,8 +4706,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4061183567",
@@ -4721,8 +4721,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4065289203",
@@ -4736,8 +4736,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163904123",
@@ -4751,8 +4751,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101240299",
@@ -4760,7 +4760,7 @@
     "author": "小野不由美",
     "award": "山本周五郎賞",
     "location": "京都市",
-    "season": "不明",
+    "season": "nan",
     "genre": "ホラー",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4103970049.09.LZZZZZZZ",
     "summary": "小説家である「私」が、東京郊外のマンションで起こる怪異の真相を、怪奇現象に巻き込まれる久保と共に調査していく。調査を進めるにつれ、マンションが建つ土地にまつわる過去の悲劇と、それによって引き起こされた連鎖的な怪異が明らかになる。",
@@ -4796,8 +4796,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4065375703",
@@ -4811,23 +4811,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4093522979",
     "title": "江分利満氏の優雅な生活",
     "author": "山口瞳",
     "award": "直木賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "昭和30年代の典型的なサラリーマン、江分利満氏の日常をコミカルに描いた連作短編小説。",
     "characters_age": "40歳～49歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062142341",
@@ -4841,23 +4841,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163248501",
     "title": "沖で待つ",
     "author": "絲山秋子",
     "award": "芥川賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "失業した30代半ばの独身女性が、見合いを失敗したり、同僚の死を悼むなど、人生の苦難や葛藤を描いた短編集。",
     "characters_age": "30歳~39歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "483425061X",
@@ -4871,8 +4871,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4806600075",
@@ -4886,8 +4886,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062194856",
@@ -4901,23 +4901,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "448880301",
     "title": "流浪の月",
     "author": "凪良ゆう",
     "award": "本屋大賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4488028020.09.LZZZZZZZ",
     "summary": "虐待を受けていた少女と、大学生との複雑な関係と、その誤解から生じた社会の偏見を描いた物語。15年後、2人が再会する。",
     "characters_age": "14歳~16歳",
     "characters": "中学生",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062748541",
@@ -4931,8 +4931,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -4946,8 +4946,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -4961,23 +4961,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "486055812X",
     "title": "海の見える理髪店",
     "author": "荻原浩",
     "award": "直木賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4087716538.09.LZZZZZZZ",
     "summary": "海辺の町で理髪店を営む老店主と、彼を訪れる様々な客との出会いを描いた連作短編集。",
     "characters_age": "60歳～69歳",
     "characters": "高齢者",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4480815589",
@@ -4991,8 +4991,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -5006,8 +5006,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4103977035",
@@ -5036,8 +5036,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062778300",
@@ -5045,7 +5045,7 @@
     "author": "百田尚樹",
     "award": "本屋大賞",
     "location": "門司",
-    "season": "不明",
+    "season": "nan",
     "genre": "歴史小説",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4062175649.09.LZZZZZZZ",
     "summary": "出光興産創業者のモデルとなった国岡鐵造が、戦後の混乱期から石油業界で成功を収めるまでの人生を描く物語。",
@@ -5059,15 +5059,15 @@
     "title": "深い河",
     "author": "田久保英夫",
     "award": "芥川賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "戦後日本の5人が、それぞれの抱える心の傷を癒すため、インドのガンジス川を訪れる旅を描く物語。キリスト教と日本人の精神性、死生観、そして愛の探求がテーマ。",
-    "characters_age": "不明",
+    "characters_age": "nan",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101280010",
@@ -5081,8 +5081,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163909877",
@@ -5096,38 +5096,38 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4103014741",
     "title": "満願",
     "author": "米澤穂信",
     "award": "山本周五郎賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4103014741.09.LZZZZZZZ",
     "summary": "6つのミステリー短編からなる短編集で、それぞれの事件の真相を解き明かしていく。",
-    "characters_age": "不明",
-    "characters": "不明",
-    "latitude": "",
-    "longitude": ""
+    "characters_age": "nan",
+    "characters": "nan",
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062751682",
     "title": "滅びのモノクローム",
     "author": "三浦明博",
     "award": "江戸川乱歩賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "広告代理店の社員が骨董市で入手した古い16ミリフィルムが、戦時中の隠された過去を暴くミステリー。",
     "characters_age": "30歳～39歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163118101",
@@ -5141,8 +5141,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4087713733",
@@ -5156,8 +5156,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163083707",
@@ -5171,23 +5171,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062621002",
     "title": "濡れた心",
     "author": "多岐川恭",
     "award": "江戸川乱歩賞",
-    "location": "不明",
+    "location": "nan",
     "season": "春",
     "genre": "ミステリー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "1956年5月から始まる女子高生2人の日記を通して描かれる、同性愛と殺人事件のミステリー小説。",
     "characters_age": "15歳~17歳",
     "characters": "高校生",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4166304801",
@@ -5216,8 +5216,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4061930060",
@@ -5225,12 +5225,12 @@
     "author": "永井路子",
     "award": "直木賞",
     "location": "鎌倉",
-    "season": "不明",
+    "season": "nan",
     "genre": "歴史小説",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "鎌倉幕府成立期を、阿野全成、梶原景時、北条保子、北条義時ら4人の人物を通して描いた連作短編集。",
-    "characters_age": "不明",
-    "characters": "その他",
+    "characters_age": "nan",
+    "characters": "nan",
     "latitude": 35.795101,
     "longitude": 139.863953
   },
@@ -5246,8 +5246,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062773163",
@@ -5261,8 +5261,8 @@
     "summary": "競馬評論家の夫が殺害された宝飾デザイナーが、友人と共に事件の真相を追い求めるミステリー。",
     "characters_age": "30歳～39歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062739585",
@@ -5276,8 +5276,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163106405",
@@ -5291,8 +5291,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163910417",
@@ -5306,8 +5306,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167282062",
@@ -5315,12 +5315,12 @@
     "author": "南條範夫",
     "award": "直木賞",
     "location": "長安",
-    "season": "不明（物語全体を通して特定の季節は描写されていない）",
+    "season": "nan",
     "genre": "歴史小説",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "遣唐使として唐に渡った小野石根が行方不明になり、灯台鬼として過酷な生活を送るも、息子道麻呂が20数年後に父を探し出し、再会を果たすも、父は自ら命を絶つという父子を描いた悲劇。",
     "characters_age": "9歳～30歳代",
-    "characters": "小学生～社会人",
+    "characters": "nan",
     "latitude": 33.814384,
     "longitude": 134.356857
   },
@@ -5336,8 +5336,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4309407455",
@@ -5351,8 +5351,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062063077",
@@ -5366,8 +5366,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4122065593",
@@ -5381,8 +5381,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167693011",
@@ -5396,38 +5396,38 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062638762",
     "title": "猫は知っていた",
     "author": "仁木悦子",
     "award": "江戸川乱歩賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "寝たきりの女性作家が、独学で書いた推理小説が江戸川乱歩賞を受賞し、後にテレビドラマ化された。",
-    "characters_age": "不明",
-    "characters": "その他",
-    "latitude": "",
-    "longitude": ""
+    "characters_age": "nan",
+    "characters": "nan",
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062759357",
     "title": "猿丸幻視行",
     "author": "井沢元彦",
     "award": "江戸川乱歩賞",
-    "location": "架空",
+    "location": "nan",
     "season": "秋",
     "genre": "ミステリー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "1909年の日本を舞台に、大学院生の香坂明と折口信夫が、猿丸額に隠された謎を解き明かし、怪死事件の真相に迫る歴史ミステリー。",
     "characters_age": "26歳",
     "characters": "大学生",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4087752488",
@@ -5441,8 +5441,8 @@
     "summary": "中世フランスで、フランス王ルイ12世と王妃ジャンヌの離婚裁判において、王妃側の弁護士として活躍するフランソワの物語。",
     "characters_age": "20歳~29歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4087503453",
@@ -5456,8 +5456,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4087501825",
@@ -5471,8 +5471,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "9867896998",
@@ -5480,12 +5480,12 @@
     "author": "宮部みゆき",
     "award": "直木賞",
     "location": "東京（荒川区）",
-    "season": "不明",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4022572442.09.LZZZZZZZ",
     "summary": "東京・荒川区の高級マンションで起きた4人殺害事件の謎を、多数の人物像とドキュメンタリー的手法で解き明かしていくミステリー小説。",
-    "characters_age": "不明",
-    "characters": "不明",
+    "characters_age": "nan",
+    "characters": "nan",
     "latitude": 43.076111,
     "longitude": 141.363617
   },
@@ -5501,8 +5501,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4061975846",
@@ -5516,23 +5516,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
     "title": "異邦人",
     "author": "辻亮一",
     "award": "芥川賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "辻亮一による1949年発表の芥川賞受賞短編小説。あらすじや内容は記述されていない。",
-    "characters_age": "不明",
-    "characters": "不明",
-    "latitude": "",
-    "longitude": ""
+    "characters_age": "nan",
+    "characters": "nan",
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062199009",
@@ -5546,8 +5546,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -5561,8 +5561,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4108300807",
@@ -5576,8 +5576,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4093522073",
@@ -5591,8 +5591,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4309418449",
@@ -5606,8 +5606,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "406206104X",
@@ -5621,8 +5621,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163155503",
@@ -5636,8 +5636,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062041189",
@@ -5651,8 +5651,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101021716",
@@ -5666,8 +5666,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4797673990",
@@ -5681,8 +5681,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062620502",
@@ -5696,8 +5696,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167580012",
@@ -5711,8 +5711,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163023100",
@@ -5726,8 +5726,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4309029051",
@@ -5741,53 +5741,53 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062088630",
     "title": "破線のマリス",
     "author": "野沢尚",
     "award": "江戸川乱歩賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "映像編集者の瑤子は、郵政官僚の汚職事件を告発する捏造ビデオを放送し、その後、その官僚を殺害する。逮捕後、息子が撮影したビデオによって事件の真相が明らかになる。",
     "characters_age": "34歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101117187",
     "title": "破船",
     "author": "吉村昭",
     "award": "本屋大賞",
-    "location": "架空",
+    "location": "nan",
     "season": "冬",
     "genre": "歴史小説",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4101117187.09.LZZZZZZZ",
     "summary": "北の寒村で、難破船から略奪した物資で暮らす人々の生活と、その裏に潜む悲劇を描いた時代小説。主人公少年は、難破船の到来と村の運命を目の当たりにする。",
     "characters_age": "9歳~11歳",
     "characters": "小学生",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4041106842",
     "title": "破門",
     "author": "黒川博行",
     "award": "直木賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4041106842.09.LZZZZZZZ",
     "summary": "ヤクザの組員である桑原保彦と建設コンサルタントの二宮啓之を中心とした、抗争や事件に巻き込まれる物語。",
     "characters_age": "40歳～49歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4093524009",
@@ -5801,8 +5801,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -5816,8 +5816,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4061127837",
@@ -5831,8 +5831,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4152034165",
@@ -5846,8 +5846,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163264302",
@@ -5876,8 +5876,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062010038",
@@ -5891,8 +5891,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4103336420",
@@ -5906,53 +5906,53 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163228705",
     "title": "空中ブランコ",
     "author": "奥田英朗",
     "award": "直木賞",
-    "location": "架空",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4163228705.09.LZZZZZZZ",
     "summary": "精神科医・伊良部一郎が、様々な悩みを抱える患者たちを独特な方法で治療していく連作短編小説集。",
     "characters_age": "30歳～39歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "416790442X",
     "title": "等伯",
     "author": "安部龍太郎",
     "award": "直木賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "歴史小説",
     "image": "https://images-na.ssl-images-amazon.com/images/P/416790442X.09.LZZZZZZZ",
     "summary": "狩野等伯の生涯を描いた歴史小説。文献資料が少ないため、水墨画や仏画などを参考に執筆された。",
     "characters_age": "40歳～49歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4061984810",
     "title": "糞尿譚",
     "author": "火野葦平",
     "award": "芥川賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "九州の市で糞尿回収業を営む小森彦太郎が、有力者との繋がりを利用して事業拡大を図るも、裏切られ、最終的には糞尿をまき散らすことで解放される様子を描いた物語。",
     "characters_age": "40歳～49歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "410317711X",
@@ -5966,8 +5966,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -5981,8 +5981,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167164051",
@@ -5996,8 +5996,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101133018",
@@ -6011,8 +6011,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -6026,8 +6026,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062620855",
@@ -6041,8 +6041,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4091398863",
@@ -6071,8 +6071,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4865961100",
@@ -6101,8 +6101,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167121026",
@@ -6116,8 +6116,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167685019",
@@ -6131,23 +6131,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4838712987",
     "title": "肩ごしの恋人",
     "author": "唯川恵",
     "award": "直木賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "夢破れた27歳のOLと、バツ2の親友、そして家出した15歳の少年の奇妙な共同生活と、それぞれの恋愛模様を描いた物語。",
     "characters_age": "27歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4122005752",
@@ -6161,8 +6161,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167563010",
@@ -6176,8 +6176,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4087717100",
@@ -6191,8 +6191,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4063649113",
@@ -6206,8 +6206,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "416312750X ",
@@ -6221,8 +6221,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4828824170",
@@ -6236,8 +6236,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4334927769",
@@ -6260,7 +6260,7 @@
     "author": "山崎豊子",
     "award": "直木賞",
     "location": "大阪",
-    "season": "不明",
+    "season": "nan",
     "genre": "歴史小説",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "明治から大正にかけての大阪を舞台に、米問屋の次女として生まれ、夫の失敗から寄席経営に乗り出し、成功を収めた女性の波乱万丈な人生を描く。",
@@ -6281,8 +6281,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163238409",
@@ -6296,8 +6296,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062029693",
@@ -6305,12 +6305,12 @@
     "author": "山崎洋子",
     "award": "江戸川乱歩賞",
     "location": "横浜",
-    "season": "不明（昭和7年と昭和17年が設定されているため）",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "昭和初期の横浜の遊郭で起こる連続殺人事件を、女中もしくは遊郭の女主人が謎を解き明かしていくミステリー小説。",
     "characters_age": "不明（原作のふみは少女、ドラマ版の主人公秋元多恵の年齢は不明）",
-    "characters": "原作：少女、ドラマ：社会人（もしくは主婦）",
+    "characters": "nan",
     "latitude": 41.083328,
     "longitude": 141.247498
   },
@@ -6320,7 +6320,7 @@
     "author": "松浦寿輝",
     "award": "芥川賞",
     "location": "新宿・大久保",
-    "season": "不明",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "デザイン事務所の借金を背負った栩谷は、借金返済の条件として、脱法ハーブを使用する脚本家の立ち退きを依頼され、新宿・大久保で過去の恋人との思い出や、不可解な出来事に遭遇する。",
@@ -6334,15 +6334,15 @@
     "title": "苦役列車",
     "author": "西村賢太",
     "award": "芥川賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4103032324.09.LZZZZZZZ",
     "summary": "昭和後期の19歳の日雇い労働者、北町貫多の、人間関係や仕事に悩むどん底の青春を描いた物語。",
     "characters_age": "19歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -6356,8 +6356,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4892570931",
@@ -6371,8 +6371,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4103541121",
@@ -6386,8 +6386,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062638789",
@@ -6401,8 +6401,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4480435301",
@@ -6416,23 +6416,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4334727654",
     "title": "蒲田行進曲",
     "author": "つかこうへい",
     "award": "直木賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "スター俳優・銀四郎と彼に仕える大部屋俳優・ヤス、そして銀四郎の恋人で妊娠中の女優・小夏の複雑な恋愛模様と、ヤスの葛藤を描いた物語。",
     "characters_age": "30歳～39歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163033807",
@@ -6446,8 +6446,8 @@
     "summary": "冷戦時代の情報戦を背景に、西側諸国によるプロパガンダ計画として創作された小説の入手と、その陰謀に巻き込まれた新聞記者の葛藤を描いたミステリー小説。",
     "characters_age": "30歳~39歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4065289211",
@@ -6461,8 +6461,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101015058",
@@ -6474,8 +6474,8 @@
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "1930年、ブラジル移民として渡伯した石川達郎の体験を描いた小説。移民収容所での衝撃的な現実や船旅、ブラジルでの生活、そして帰国までの過程が描かれている。",
-    "characters_age": "不明",
-    "characters": "その他",
+    "characters_age": "nan",
+    "characters": "nan",
     "latitude": 36.142796,
     "longitude": 139.561279
   },
@@ -6491,8 +6491,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4103472030",
@@ -6506,8 +6506,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -6521,8 +6521,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -6536,8 +6536,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4087475727",
@@ -6545,14 +6545,14 @@
     "author": "船戸与一",
     "award": "直木賞",
     "location": "セブ島",
-    "season": "不明",
+    "season": "nan",
     "genre": "青春小説",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "フィリピン・セブ島を舞台に、日比混血の少年トシオが13歳から15歳にかけて成長していく冒険物語。虹の谷の秘密を知るトシオと、彼を取り巻く人々の生活が描かれる。",
     "characters_age": "13歳~15歳",
     "characters": "中学生",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4087460487",
@@ -6560,7 +6560,7 @@
     "author": "金原ひとみ",
     "award": "芥川賞",
     "location": "渋谷",
-    "season": "不明",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "身体改造に魅せられた19歳のルイと、彼と深く関わる男たちとの関係を通して、愛と喪失、そして自己肯定の模索を描く物語。",
@@ -6574,15 +6574,15 @@
     "title": "蛇を踏む",
     "author": "川上弘美",
     "award": "芥川賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "藪で蛇を踏んだヒワ子の前に、蛇が人間の女に変身し、ヒワ子の母だと名乗り出て同居を始める話。",
-    "characters_age": "不明",
-    "characters": "不明",
-    "latitude": "",
-    "longitude": ""
+    "characters_age": "nan",
+    "characters": "nan",
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4344845188",
@@ -6590,14 +6590,14 @@
     "author": "恩田陸",
     "award": "本屋大賞 | 直木賞",
     "location": "芳ヶ江市",
-    "season": "不明",
+    "season": "nan",
     "genre": "青春小説",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4344030036.09.LZZZZZZZ",
     "summary": "芳ヶ江国際ピアノコンクールを舞台に、個性豊かな4人の若きピアニストたちの葛藤と成長を描いた青春群像小説。",
     "characters_age": "16歳",
     "characters": "高校生",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4396633734",
@@ -6611,8 +6611,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4061361082",
@@ -6626,8 +6626,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4769829892",
@@ -6641,8 +6641,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4480020330",
@@ -6671,8 +6671,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4061360434",
@@ -6686,8 +6686,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4877282106",
@@ -6695,7 +6695,7 @@
     "author": "梁石日",
     "award": "山本周五郎賞",
     "location": "大阪",
-    "season": "不明",
+    "season": "nan",
     "genre": "歴史小説",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "1930年代の大阪で、蒲鉾製造業や高利貸しで成功するも、暴力と放蕩で破滅していく在日朝鮮人男性の人生を描いた物語。",
@@ -6716,23 +6716,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4041242223",
     "title": "裸の王様",
     "author": "開高健",
     "award": "芥川賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "戦後社会の閉塞感の中で、内向的な少年の心を解き放つため、画塾講師が奔走する物語。少年の自由な発想と、大人の思惑が交錯する中で、少年は成長していく。",
     "characters_age": "10歳~11歳",
     "characters": "小学生",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062185091",
@@ -6746,8 +6746,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4120033082",
@@ -6776,8 +6776,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062149184",
@@ -6791,8 +6791,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -6806,8 +6806,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4093867356",
@@ -6836,8 +6836,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "406524188X",
@@ -6851,8 +6851,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "491062175X",
@@ -6866,8 +6866,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167654016",
@@ -6875,12 +6875,12 @@
     "author": "車谷長吉",
     "award": "直木賞",
     "location": "三重県",
-    "season": "不明",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "車谷長吉の小説「赤目四十八瀧心中未遂」を原作とする映画で、三重県の赤目四十八滝を舞台に、生島与一と綾を中心に展開する物語。",
-    "characters_age": "不明",
-    "characters": "不明",
+    "characters_age": "nan",
+    "characters": "nan",
     "latitude": 34.730278,
     "longitude": 136.508606
   },
@@ -6904,15 +6904,15 @@
     "title": "蹴りたい背中",
     "author": "綿矢りさ",
     "award": "芥川賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "青春小説",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4309015700.09.LZZZZZZZ",
     "summary": "高校生のハツとオタクの同級生にな川との交流を通して、友情や自身の感情と向き合う青春小説。",
     "characters_age": "15歳~16歳",
     "characters": "高校生",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -6926,23 +6926,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4061313061",
     "title": "軍旗はためく下に",
     "author": "結城昌治",
     "award": "直木賞",
-    "location": "架空",
+    "location": "nan",
     "season": "夏",
     "genre": "ミステリー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "終戦後、夫の「敵前逃亡」による処刑の真相を明らかにしようと奔走する未亡人の物語。様々な証言から、戦争の残酷さと、夫の死の謎が徐々に明らかになっていく。",
-    "characters_age": "不明",
+    "characters_age": "nan",
     "characters": "主婦",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4122000815",
@@ -6950,7 +6950,7 @@
     "author": "生島治郎",
     "award": "直木賞",
     "location": "神戸市",
-    "season": "不明",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "元警察官が、暴力団への復讐を誓い、執拗に追いつめていく物語。",
@@ -6971,8 +6971,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4061361759",
@@ -6986,8 +6986,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -7001,8 +7001,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "406524594X",
@@ -7016,8 +7016,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4065368316",
@@ -7031,8 +7031,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062061120",
@@ -7046,8 +7046,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4006020554",
@@ -7061,8 +7061,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062175614",
@@ -7076,8 +7076,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062937344",
@@ -7091,8 +7091,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4093523290",
@@ -7106,8 +7106,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163109005",
@@ -7121,8 +7121,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4048724851",
@@ -7130,14 +7130,14 @@
     "author": "景山民夫",
     "award": "直木賞",
     "location": "パゴパゴ島",
-    "season": "不明",
-    "genre": "冒険小説（その他）",
+    "season": "nan",
+    "genre": "nan",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "南太平洋の島で暮らす12歳の少年が、古代生物プレシオサウルスと出会い、その保護を通して成長していく物語。フランスの核実験計画の陰謀にも巻き込まれる。",
     "characters_age": "12歳",
     "characters": "小学生",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167724014",
@@ -7145,14 +7145,14 @@
     "author": "熊谷達也",
     "award": "山本周五郎賞 | 直木賞",
     "location": "阿仁町",
-    "season": "不明",
+    "season": "nan",
     "genre": "歴史小説",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "大正から昭和初期の秋田県阿仁町で生まれたマタギ、松橋富治の波瀾万丈の人生を描いた物語。自然への畏敬の念をテーマとしている。",
-    "characters_age": "不明",
+    "characters_age": "nan",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4777159787",
@@ -7166,8 +7166,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4925053132",
@@ -7181,8 +7181,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4865966323",
@@ -7190,7 +7190,7 @@
     "author": "門井慶喜",
     "award": "直木賞",
     "location": "花巻",
-    "season": "不明",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4062207508.09.LZZZZZZZ",
     "summary": "宮沢賢治の父、政次郎の視点から、賢治の生涯と父子関係を描いた物語。",
@@ -7211,8 +7211,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163099603",
@@ -7226,23 +7226,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163813500",
     "title": "鍵のない夢を見る",
     "author": "辻村深月",
     "award": "直木賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4163813500.09.LZZZZZZZ",
     "summary": "ごく普通の女性たちが犯した小さな犯罪を描いた5つの短編からなる短編集。それぞれの女性たちの背景や動機、事件の真相が丁寧に描かれている。",
     "characters_age": "20歳~39歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167710099",
@@ -7256,8 +7256,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101154244",
@@ -7271,8 +7271,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -7286,8 +7286,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4828831940",
@@ -7301,8 +7301,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4769811144",
@@ -7316,8 +7316,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "406219094X",
@@ -7325,7 +7325,7 @@
     "author": "下村敦史",
     "award": "江戸川乱歩賞",
     "location": "岩手",
-    "season": "不明",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://images-na.ssl-images-amazon.com/images/P/406219094X.09.LZZZZZZZ",
     "summary": "満州生まれの盲目の主人公が、中国残留孤児として帰国した兄の正体と、孫娘への腎臓移植を巡る葛藤の中で、過去の謎と家族の真実を追い求めるミステリー。",
@@ -7355,7 +7355,7 @@
     "author": "村上龍",
     "award": "芥川賞",
     "location": "福生市",
-    "season": "不明",
+    "season": "nan",
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "東京都福生市を舞台に、薬物、セックス、暴力に明け暮れる若者たちの荒廃を描いた小説。主人公は彼らの行動を客観的に見つめ続ける。",
@@ -7370,7 +7370,7 @@
     "author": "水上勉",
     "award": "直木賞",
     "location": "京都",
-    "season": "不明",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "京都の寺の和尚とその愛人、そして和尚に厳しくあたる小僧の13歳の少年を中心に、和尚の失踪とそれにまつわる陰謀を描いた物語。",
@@ -7391,8 +7391,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167296012",
@@ -7406,8 +7406,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4087495663",
@@ -7421,8 +7421,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -7436,8 +7436,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4591103234",
@@ -7466,8 +7466,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167465019",
@@ -7481,23 +7481,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4093524610",
     "title": "青玉獅子香炉",
     "author": "陳舜臣",
     "award": "直木賞",
-    "location": "不明",
+    "location": "nan",
     "season": "春",
     "genre": "ミステリー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "5つの短編からなる小説集で、物への執着や罪悪感などがミステリアスな雰囲気の中で描かれている。",
-    "characters_age": "不明",
+    "characters_age": "nan",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -7511,23 +7511,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062936801",
     "title": "顔に降りかかる雨",
     "author": "桐野夏生",
     "award": "江戸川乱歩賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "ミステリー",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4062066688.09.LZZZZZZZ",
     "summary": "中古外車販売業社長の不倫相手であるルポライターが、事件に巻き込まれるミステリー小説。",
     "characters_age": "30歳~39歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163249206",
@@ -7535,7 +7535,7 @@
     "author": "森絵都",
     "award": "直木賞",
     "location": "東京",
-    "season": "不明",
+    "season": "nan",
     "genre": "文学",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4163249206.09.LZZZZZZZ",
     "summary": "東京のUNHCR勤務の女性や、様々な職業の男女の愛や生き様を描いた短編小説集。",
@@ -7556,23 +7556,23 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4101126011",
     "title": "飼育",
     "author": "大江健三郎",
     "award": "芥川賞",
-    "location": "架空",
+    "location": "nan",
     "season": "夏",
     "genre": "ミステリー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "戦時下の孤立した村に墜落した黒人兵が匿われ、やがて村人によって殺害されるまでの出来事を、少年の視点で描いた物語。",
     "characters_age": "10歳~13歳",
     "characters": "小学生",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4103533811",
@@ -7586,8 +7586,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4408320137",
@@ -7601,8 +7601,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4620101222",
@@ -7616,8 +7616,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -7631,8 +7631,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4103722045",
@@ -7684,15 +7684,15 @@
     "title": "鬼の詩",
     "author": "藤本義一",
     "award": "直木賞",
-    "location": "不明",
-    "season": "不明",
+    "location": "nan",
+    "season": "nan",
     "genre": "歴史小説",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "明治末期の落語家、桂馬喬の芸に対する強い執念を描いた物語。",
-    "characters_age": "不明",
+    "characters_age": "nan",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4103387025",
@@ -7704,7 +7704,7 @@
     "genre": "文学",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "1966年秋の東京築地の魚河岸を舞台に、様々な人間模様を描いた物語。",
-    "characters_age": "不明",
+    "characters_age": "nan",
     "characters": "社会人",
     "latitude": 43.076111,
     "longitude": 141.363617
@@ -7714,15 +7714,15 @@
     "title": "鯨神",
     "author": "宇能鴻一郎",
     "award": "芥川賞",
-    "location": "架空",
+    "location": "nan",
     "season": "冬",
     "genre": "ミステリー",
     "image": "https://sktn3pub.s3.us-east-2.amazonaws.com/no_image.jpg",
     "summary": "明治期の肥前平戸島で、巨大クジラ「鯨神」を討伐しようと奮闘する若き漁師シャキの物語。復讐心と執念、そして鯨神との壮絶な戦いを経て、シャキは自身の運命と鯨神とが一体化していく。",
     "characters_age": "20歳~29歳",
     "characters": "社会人",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "nan",
@@ -7736,8 +7736,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4334774881",
@@ -7751,8 +7751,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4087500101",
@@ -7766,8 +7766,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "416758607X",
@@ -7789,15 +7789,15 @@
     "title": "鹿の王",
     "author": "上橋菜穂子",
     "award": "本屋大賞",
-    "location": "架空",
+    "location": "nan",
     "season": "冬",
     "genre": "ファンタジー",
     "image": "https://images-na.ssl-images-amazon.com/images/P/4041018889.09.LZZZZZZZ",
     "summary": "謎の病「黒狼熱」が流行する中、故郷を追われたヴァンと医術師ホッサルが、黒狼熱の謎と陰謀に巻き込まれながら、それぞれの目的のために奮闘する物語。",
     "characters_age": "30歳～39歳（ヴァンは年齢が具体的に書かれていないが、独角の頭として活躍し、戦いに敗れた後、岩塩鉱で働いていたことから、この年齢帯と推測）",
-    "characters": "社会人（ヴァンは独角の頭、ホッサルは医術師）",
-    "latitude": "",
-    "longitude": ""
+    "characters": "nan",
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4916158741",
@@ -7811,8 +7811,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4062735318",
@@ -7826,8 +7826,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4163074201",
@@ -7841,8 +7841,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4041147220",
@@ -7856,8 +7856,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4065263816",
@@ -7871,8 +7871,8 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   },
   {
     "id": "4167903997",
@@ -7886,7 +7886,7 @@
     "summary": "nan",
     "characters_age": "nan",
     "characters": "nan",
-    "latitude": "",
-    "longitude": ""
+    "latitude": null,
+    "longitude": null
   }
 ]
